@@ -1,0 +1,3 @@
+objectid,filename,kind,duration,creator,date,description,subject,size,bitrate,samplerate,id3 tag,Encoded with,format,,language
+,,,,,,,,,,,,,,,
+crt001,CRTpodcast,MPEG-audiofile,10minutes,Jack,2021,Final Class Project,African American and Inequality,14-5MB,192kbps,44-100kHz,v2-2,GarageBand 10.4.8,"MPEG-1, Layer 3",,English
