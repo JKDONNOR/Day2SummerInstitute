@@ -1,0 +1,3 @@
+objectid,object_location,kind,duration,creator,date,description,subject,size,bitrate,samplerate,id3 tag,Encoded with,format,display_template,language
+crt001,/objects/crtpodcast.mp3,MPEG-audiofile,10minutes,Jack Sharp,2023,Final Class Project,African American and Inequality,14-5MB,192kbps,44-100kHz,v2-2,GarageBand 10.4.8,MPEG-1_Layer 3,audio,English
+crt002,/objects/crtpodcast.mp3,MPEG-audiofile,10minutes,Griffin Must,2023,Final Class Project,Education_Equity,24_4 MB,320 kbps,44-100kHz,none,LAME3_10,MPEG-1_Layer 3,audio,English
